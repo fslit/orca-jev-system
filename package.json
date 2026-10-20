@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "demo": "tsx demo-judge.ts",
-    "demo:compare": "tsx demo-compare.ts"
+    "demo:compare": "tsx demo-compare.ts",
+    "demo:full": "tsx demo-full-jev.ts"
   },
   "dependencies": {},
   "devDependencies": {
